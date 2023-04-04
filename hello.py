@@ -6,4 +6,5 @@ print('Hello, World!')
 
 # display a specific message
 print()
-name = input()
+name = input('What is your full name? ')
+print('Hello', name + '! How are you today?')
